@@ -10,9 +10,9 @@ Vamos fazer um pequeno mobile app que auxilie essa tomada de decisão!
 
 - ✔️ Você foi escolhido para fazer um app de venda de produtos para o Ton;  
 - ✔️ Nós vendemos maquininhas, mas fique à vontade para vender o que você quiser; 
-- ✔️ Nesse desafio queremos entender seu conhecimento geral de React Native e que você consiga explicar seu código.
-- ✔️ Reproduza o [wireframe](./desafio-frontend-ton-stone.pdf) abaixo e utilize typescript. 
-- ✔️ Não precisa se preocupar com a UI, não estamos avaliando isso no momento - mas vamos avaliar a UX. 
+- ✔️ Nesse desafio queremos entender seu conhecimento geral de React Native e que você consiga explicar seu código;
+- ✔️ Reproduza o [wireframe](./desafio-frontend-ton-stone.pdf) abaixo e utilize typescript;
+- ✔️ Não precisa se preocupar com a UI, não estamos avaliando isso no momento, mas vamos avaliar a UX;
 - ✔️ A lista de produtos pode ser inventada por você mesmo ou puxar de alguma API qualquer.
 
 ## 🔖 Estórias
