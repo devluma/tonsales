@@ -1,4 +1,4 @@
-# TESTE FRONT-END STONE CO.#
+# TESTE FRONT-END STONE CO. #
 
 ## 🚀 Introdução
 
