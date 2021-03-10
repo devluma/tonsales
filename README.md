@@ -31,7 +31,7 @@ Para que **eu consiga atingir minhas metas e objetivos como vendedor.**
 
 ## 💻 Tecnologias utilizadas no Projeto
 
-O projeto foi criado utilizando as seguintes tecnologias: `React Native`, `Typescript`,  `Styled-components` e `Sqlite`, como Storage no ambiente de desenvolvimento e testes. E para rodar os testes da aplicação foi utilizado o `Jest` com o `Supertest`.
+O projeto foi criado utilizando as seguintes tecnologias: `React Native`, `Typescript`,  `Styled-components` e `Sqlite` como Storage no ambiente de desenvolvimento e testes. E para rodar os testes da aplicação foi utilizado o `Jest` com o `Supertest`.
 
 Segue abaixo as principais tecnologias utilizadas neste projeto:
 
