@@ -6,12 +6,15 @@
   },
   "extends": [
     "plugin:@typescript-eslint/recommended",
+    "prettier/@typescript-eslint",
     "plugin:react/recommended",
     "airbnb",
     "plugin:prettier/recommended"
   ],
   "globals": {
-    "__DEV__": "readonly"
+    "__DEV__": "readonly",
+    "Atomics": "readonly",
+    "SharedArrayBuffer": "readonly"
   },
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
