@@ -13,7 +13,7 @@ yarn json-server --watch server.json --port 5001
 ```
 
 # Layout Figma
-[Tonsales Mobile](./desafio-frontend-ton-stone.pdf)
+[Tonsales Mobile](./../desafio-frontend-ton-stone.pdf)
 
 # Instruções
-[Link das Instruções](./desafio-frontend-ton-stone.pdf)
+[Link das Instruções](./../desafio-frontend-ton-stone.pdf)
