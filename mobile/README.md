@@ -1,4 +1,4 @@
-# TonSales Mobile #
+# Tonsales Mobile #
 
 Tonsales Mobile <br />
 Desafio Mobile: Stone CO.
@@ -12,7 +12,7 @@ Essa será uma aplicação que irá se conectar a uma Fake API, e exibir e filtr
 yarn json-server --watch server.json --port 5001
 ```
 
-# Layout Figma
+# Layout UI/UX
 [Tonsales Mobile](./../desafio-frontend-ton-stone.pdf)
 
 # Instruções
