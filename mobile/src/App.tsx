@@ -1,10 +1,22 @@
+import 'react-native-gesture-handler';
 import React from 'react';
-import { Text, View } from 'react-native';
+import { View, StatusBar } from 'react-native';
+import 'intl';
+import 'intl/locale-data/jsonp/pt-BR';
 
-const App: React.FC = () => (
-  <View style={{ flex: 1, backgroundColor: '#312e38' }}>
-    <Text>Hello World!</Text>
-  </View>
-);
+import Routes from './routes';
+
+const App: React.FC = () => {
+  return (
+    <View style={{ flex: 1 }}>
+      <StatusBar
+        barStyle="light-content"
+        backgroundColor="transparent"
+        translucent
+      />
+      <Routes />
+    </View>
+  );
+};
 
 export default App;
